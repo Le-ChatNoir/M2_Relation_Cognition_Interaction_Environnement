@@ -1,0 +1,25 @@
+https://www.enib.fr/~deloor/materielPedagogique/TP/ExpePsychoStat/
+
+Rendre un PDF associé avec les résultats.Su le sujet en ligne (https://www.enib.fr/~deloor/materielPedagogique/TP/ExpePsychoStat/), on a les questions. Il faut les courbes, ou au moins les données. On met les données dans un PDF, et les calculs du modèle augmenté et l'hypothèse nulle. Montrer l'expression de ces modèles et ce que a implique (carré du modèle des erreurs etc...) avec MC3, MC10 et MC60, erreur de prédition et les équivalents MA3, MA10 et MA60 cequi est donné. Egalement le code, ou la façon dont un a calculé les deux types de modèles. Calcul de la proportion de réduction de l'erreur pour les MA.
+Sur la Q5, l'objectif est de calculer la P value.
+
+Hypothese de la Q2: hypothese nulle, comparer. "Il n'y a pas d'influence de l'angle ou du temps sur la précision de positionnement de l'objet" et ce model va considerer que cette erreur de positionnement est en moyenne toujours la meme (moyenne sur toutes les erreurs" et on voit si une simple moyene prédit les données. L'audre model c'est une droite (modèle augmenté) unen droite, et comparer dans les deux cas si + ou - d'erreur de prédiction entre les deux modèles.
+
+Q5 sur la Nova (facultative) et la 6 n'est pas une question, c'est du cours.
+
+Si on arrive a la Q4, on considere que la majorité du boulot est fait.
+Envoyer le code avec des commentaires ou un peu montrer les courbes. Mini rapport.
+
+Utilisation de miniconda3:
+Chercher Conda Cheat Sheet
+Lancer la console miniconda3
+Crer un nouvel environement, ici python 3.5: $> conda create --name py35 python=3.5
+Choisir cet environement: $> activate py35
+A gauche il y aura le nom de l'environement.
+Ensuite, utiliser "python" pour les commandes, pas "py" car ça sera celui de l'OS.
+Chaque PIP ets indépendant
+
+
+
+Questions envoyées par Kanellos.
+Le TP de RCIE est 1/3 de la note, l'écrit (par Kanellos) compte pour le reste.
